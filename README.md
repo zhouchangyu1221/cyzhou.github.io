@@ -2,8 +2,6 @@
 
 The website's URL is: https://zhouchangyu1221.github.io/cyzhou.github.io/.
 
-$i=1,2,\cdots,n$
-
 You can see my blogs on [CSDN](https://blog.csdn.net/zhouchangyu1221), which is mainly about interesting mathmatics.
 
 Welcome to visit my [Qzone](https://user.qzone.qq.com/1359110214) if you have a QQ account.
